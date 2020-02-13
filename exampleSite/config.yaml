@@ -38,10 +38,10 @@ menu:
 params:
   includeBootstrapJs: false
   showActiveNav: true
-  containerMaxWidth: 1024px
+  containerMaxWidth: 800px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
+  homeText: Photographer | Blogger | Black Belt | Family Man | My cat is 20 years old.
+  footerText: Noah Bershatsky - Copyright 2020. All rights reserved.
   hideFooter: false
 
 markup:
