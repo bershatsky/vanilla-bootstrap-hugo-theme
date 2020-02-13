@@ -6,4 +6,4 @@ title: Noah Bershatsky
 
 <div>&nbsp;</div>
 
-![](https://res.cloudinary.com/noahbershatsky/image/upload/c_scale,q_auto:best,w_1200/v1581568748/4E3961EC-354E-4CFF-B6CB-0DDAB48E6D40_ulrdyl.jpg)
+![](https://photos.smugmug.com/Profile-Pics/i-PrtDsgJ/0/edc77788/X3/2019-08-02%20Grand%20Cayman%2018-44-24_Original-X3.jpg)
