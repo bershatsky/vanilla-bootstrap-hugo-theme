@@ -38,7 +38,7 @@ menu:
 params:
   includeBootstrapJs: false
   showActiveNav: true
-  containerMaxWidth: 700px
+  containerMaxWidth: 800px
   dateFormat: Jan 2, 2006
   homeText: Photographer | Blogger | Black Belt | Family Man | My cat is 20 years old.
   footerText: Copyright 2020 - All rights reserved.
