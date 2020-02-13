@@ -1,7 +1,5 @@
 ---
 title: Home
-draft: true
 ---
 
-Homepage content goes here. fghhgfghjfghjfghjgghj
-hjkhjkhjkghjkhjkhgk
+Homepage content goes here.
