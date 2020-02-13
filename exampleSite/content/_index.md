@@ -2,7 +2,7 @@
 title: Noah Bershatsky
 ---
 
-#### Photographer | Blogger | Black Belt | Family Man | My cat is 20 years old.
+##### Photographer | Blogger | Black Belt | Family Man | My cat is 20 years old.
 
 <div>&nbsp;</div>
 
