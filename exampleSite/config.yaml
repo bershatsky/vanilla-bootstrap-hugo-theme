@@ -41,7 +41,7 @@ params:
   containerMaxWidth: 800px
   dateFormat: Jan 2, 2006
   homeText: Photographer | Blogger | Black Belt | Family Man | My cat is 20 years old.
-  footerText: Noah Bershatsky - Copyright 2020. All rights reserved.
+  footerText: Copyright 2020 - all rights reserved.
   hideFooter: false
 
 markup:
