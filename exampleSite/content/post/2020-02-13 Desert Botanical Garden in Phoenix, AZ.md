@@ -1,7 +1,7 @@
 ---
 title: "Desert Botanical Garden in Phoenix, AZ"
 date: 2020-02-13T20:46:49-06:00
-tags: ["Fuji X-Pro3”, “Fuji 23mm f/2"]
+tags: ["Fuji-X-Pro3”, “Fuji-23mm-f/2"]
 ---
 
 Desert Botanical Garden in Phoenix, AZ
