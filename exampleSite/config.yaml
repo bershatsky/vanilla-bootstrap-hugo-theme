@@ -14,10 +14,12 @@ permalinks:
 # The value of pre is the icon name
 menu:
   nav:
-  - pre: home
+  - name: Home
+    pre: home
     url: /
     weight: 1
-  - pre: edit
+  - name: Blog
+    pre: edit
     url: /post/
     weight: 2
   - name: Tags
