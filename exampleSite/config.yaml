@@ -14,27 +14,27 @@ permalinks:
 # The value of pre is the icon name
 menu:
   nav:
-  - name: &nbsp;
+  - name: Home
     pre: home
     url: /
     weight: 1
-  - name:
+  - name: Blog
     pre: edit
     url: /post/
     weight: 2
-  - name:
+  - name: Tags
     pre: tag
     url: /tags/
     weight: 3
-  - name:
+  - name: Me
     pre: smile
     url: /about/
     weight: 4
-  - name:
+  - name: RSS
     pre: rss
     url: /index.xml
     weight: 5
-  - name:
+  - name: Portfolio
     pre: image
     url: /portfolio/
     weight: 6
