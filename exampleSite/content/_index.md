@@ -6,4 +6,4 @@ title: Noah Bershatsky
 
 <div>&nbsp;</div>
 
-![](https://photos.smugmug.com/Profile-Pics/i-PrtDsgJ/0/edc77788/X3/2019-08-02%20Grand%20Cayman%2018-44-24_Original-X3.jpg)
+![](https://photos.smugmug.com/Profile-Pics/i-MH3JtS2/0/f980dd7e/X4/2019-10-14%20Noah%20Professional%20Karate%20Photos%2016-35-00_Original-X4.jpg)
