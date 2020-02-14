@@ -34,6 +34,11 @@ menu:
     pre: rss
     url: /index.xml
     weight: 5
+  - name:
+    pre: image
+    url: /portfolio/
+    weight: 6
+    
 
 params:
   includeBootstrapJs: false
