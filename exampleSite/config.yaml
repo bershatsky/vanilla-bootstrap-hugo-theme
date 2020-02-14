@@ -17,8 +17,7 @@ menu:
   - pre: home
     url: /
     weight: 1
-  - name: Blog
-    pre: edit
+  - pre: edit
     url: /post/
     weight: 2
   - name: Tags
