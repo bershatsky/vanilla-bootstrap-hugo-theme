@@ -14,7 +14,7 @@ permalinks:
 # The value of pre is the icon name
 menu:
   nav:
-  - name: Home
+  - name:
     pre: home
     url: /
     weight: 1
