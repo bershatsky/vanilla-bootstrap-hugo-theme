@@ -18,19 +18,19 @@ menu:
     pre: home
     url: /
     weight: 1
-  - name: Blog
+  - name:
     pre: edit
     url: /post/
     weight: 2
-  - name: Tags
+  - name:
     pre: tag
     url: /tags/
     weight: 3
-  - name: About
+  - name:
     pre: smile
     url: /about/
     weight: 4
-  - name: RSS
+  - name:
     pre: rss
     url: /index.xml
     weight: 5
